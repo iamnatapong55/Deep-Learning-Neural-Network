@@ -6,7 +6,7 @@ Welcome to the AI-Powered Room Decoration App, a tool designed to revolutionize 
 ![Alt text](https://github.com/iamnatapong55/Deep-Learning-Neural-Network/blob/main/WebApp.png)
 
 ## Features
-- **Image Transformation**:
-![Alt text](https://github.com/iamnatapong55/Deep-Learning-Neural-Network/blob/main/Output.png)
 - **Custom Design Options**: Choose from various design styles, color schemes, and furniture options.
 - **AI-Powered**: Utilizes the StableDiffusion model to generate realistic room transformations.
+- **Image Output**:
+![Alt text](https://github.com/iamnatapong55/Deep-Learning-Neural-Network/blob/main/Output.png)
